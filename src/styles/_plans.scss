@@ -11,6 +11,10 @@
     margin-top: 50px;
     flex-wrap: wrap;
 
+    .button {
+      margin-top: 24px;
+    }
+
     &__item {
       text-align: center;
       padding: 60px 44px 44px;
